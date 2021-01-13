@@ -19,6 +19,7 @@
 ## Minhas regras
 
 * Aplicar alguma personalização em cada um dos projetos
+* Criar uma página demo para cada um dos desafios
 
 Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
@@ -66,10 +67,11 @@ Gostou da ideia?
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
+[Página demo](https://nathally.vercel.app/css)
 
 [Meu codigo](https://github.com/nathyts/30diasCSS/tree/master/01)
 
-[Post LinkedIn]
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:6755116173043515392/)
 
 
 
