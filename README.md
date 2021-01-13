@@ -67,7 +67,7 @@ Gostou da ideia?
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
 
-[Meu codigo]
+[Meu codigo](https://github.com/nathyts/30diasCSS/tree/master/01)
 
 [Post LinkedIn]
 
@@ -85,7 +85,7 @@ Gostou da ideia?
 
 ##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
 
-<img src="Desafios/dia 03/gif/dia03.gif">
+![Dia03](https://raw.githubusercontent.com/MilenaCarecho/30diasDeCSS/master/Desafios/dia%2003/gif/dia03.gif)
 
 
 [Meu código]
