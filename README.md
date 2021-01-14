@@ -67,7 +67,7 @@ Gostou da ideia?
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
-[Página demo](https://nathally.vercel.app/css)
+[Página demo](https://nathally.vercel.app/css#day01)
 
 [Meu codigo](https://github.com/nathyts/30diasCSS/tree/master/01)
 
@@ -78,10 +78,11 @@ Gostou da ideia?
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![Dia 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
 
+[Meu código](https://github.com/nathyts/30diasCSS/tree/master/02)
 
-[Meu código]
+[Página demo](https://nathally.vercel.app/css#day02)
 
-[Post LinkedIn]
+[Post LinkedIn](https://www.linkedin.com/posts/nathally-souza-7331a71b9_segundo-desafio-de-30-dias-de-css-um-loader-activity-6755471422665080833-z1q-)
 
 
 
